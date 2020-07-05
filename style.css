@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .carousel-bg{
     background-color: #FEEAE9;
 }
@@ -13,4 +16,5 @@
     padding: 9px 25px;
     border-radius: 8px;
     cursor: pointer;
+    border: none;
 }
